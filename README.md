@@ -32,7 +32,6 @@ MoodRythm is developed by the following:
 
 1. [Saugata Roy Arghya](https://github.com/saugataroyarghya)
 2. [Aciful Islam Khan Swopnile](https://github.com/Elin-powS)
-3. [Soummo Bhattacharya](https://github.com/SoummoSsj)
 4. [Mohammad Abtahe Alam](https://github.com/Abtahe103)
 5. [Md. Rakibul Hasan Adnan](https://github.com/RakibHasan106)
 
